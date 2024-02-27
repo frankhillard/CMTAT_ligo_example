@@ -1,0 +1,13 @@
+{
+    "name": "my_token",
+    "version": "1.0.0",
+    "main": "./lib/main.mligo",
+    "description": "my CMTA token",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ligolang/CMTAT-Ligo.git"
+    },
+    "dependencies": {
+        "@ligo/cmtat": "^1.0.0"
+    }
+}
